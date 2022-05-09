@@ -1,0 +1,16 @@
+D:\bootcamp NET\challenge6-ejer1\bin\Debug\net5.0\challenge6-ejer1.exe
+D:\bootcamp NET\challenge6-ejer1\bin\Debug\net5.0\challenge6-ejer1.deps.json
+D:\bootcamp NET\challenge6-ejer1\bin\Debug\net5.0\challenge6-ejer1.runtimeconfig.json
+D:\bootcamp NET\challenge6-ejer1\bin\Debug\net5.0\challenge6-ejer1.runtimeconfig.dev.json
+D:\bootcamp NET\challenge6-ejer1\bin\Debug\net5.0\challenge6-ejer1.dll
+D:\bootcamp NET\challenge6-ejer1\bin\Debug\net5.0\ref\challenge6-ejer1.dll
+D:\bootcamp NET\challenge6-ejer1\bin\Debug\net5.0\challenge6-ejer1.pdb
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.csproj.AssemblyReference.cache
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.AssemblyInfoInputs.cache
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.AssemblyInfo.cs
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.csproj.CoreCompileInputs.cache
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.dll
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\ref\challenge6-ejer1.dll
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.pdb
+D:\bootcamp NET\challenge6-ejer1\obj\Debug\net5.0\challenge6-ejer1.genruntimeconfig.cache
